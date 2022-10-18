@@ -1,5 +1,21 @@
 # Portfolio
 ---
+
+## Data Science
+
+---
+
+##  Car price prediction (Linear Regression)
+
+---
+
+## Churn prediction (Logistic Regression)
+
+---
+
+## Classification metrics
+
+---
 ## Resumes
 
 ### NumPy

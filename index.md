@@ -11,7 +11,7 @@
 
 ### Churn prediction (Logistic Regression)
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/numpy_summary.html)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/03-churn.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jorgealiaga36/machine_learning/blob/master/numpy_summary.ipynb)
 ---
 

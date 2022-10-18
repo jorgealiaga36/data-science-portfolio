@@ -5,15 +5,15 @@
 
 ---
 
-##  Car price prediction (Linear Regression)
+###  Car price prediction (Linear Regression)
 
 ---
 
-## Churn prediction (Logistic Regression)
+### Churn prediction (Logistic Regression)
 
 ---
 
-## Classification metrics
+### Classification metrics
 
 ---
 ## Resumes

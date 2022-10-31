@@ -13,8 +13,12 @@
 
 ### Credit Risk Scoring
 
+Imagine that we work at a bank. When we receive a loan application, we need to make sure that if we give the money, the customer will be able to pay it back. Every application carries a risk of default — the failure to return the money. We’d like to minimize this risk: before agreeing to give a loan, we want to score the customer and assess the chances of default. If it’s too high, we reject the application. 
+
+We will study different machine learning models and we will select the best one for our proyect.
+
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/credit_risk_scoring_proyect.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jorgealiaga36/machine_learning/tree/master/chap3_churn_prediction)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jorgealiaga36/machine_learning/blob/master/credit_risk_scoring_proyect.ipynb)
 <br>
 <center><img src="images/ROC_models.png"/></center>
 <br>

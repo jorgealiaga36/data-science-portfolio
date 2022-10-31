@@ -1,21 +1,20 @@
 # Portfolio
 ---
 
-## Data Science
+## Data Science - Proyects
 
 ---
 
-###  Car price prediction (Linear Regression)
-
----
-
-### Churn prediction (Logistic Regression)
+### Churn Prediction
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/churn_prediction_proyect.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jorgealiaga36/machine_learning/tree/master/chap3_churn_prediction)
 ---
 
-### Classification metrics
+### Credit Risk Scoring
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/credit_risk_scoring_proyect.html)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jorgealiaga36/machine_learning/tree/master/chap3_churn_prediction)
 
 ---
 ## Resumes

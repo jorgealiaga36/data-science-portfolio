@@ -1,9 +1,7 @@
 # Portfolio
 ---
 
-## Data Science - Proyects
-
----
+## Data Science
 
 ### Churn Prediction
 
@@ -26,7 +24,7 @@ We will study different machine learning models and we will select the best one 
 ---
 ## Resumes
 
-### NumPy
+### NumPy library
 
 NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
 
@@ -35,7 +33,7 @@ NumPy is a library for the Python programming language, adding support for large
 
 ---
 
-## Pandas
+## Pandas library
 
 Pandas is a library for the Python programming language used in data analysis and in data manipulation for retrieving information from the data.
 

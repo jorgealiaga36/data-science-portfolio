@@ -42,7 +42,7 @@ The main goal of this proyect is to build a image classification model for the r
 First I prepare the data using generators for image augmentation. Then, I use a pretained model called Inception-v3 and we add some extra layers to fit the model for the application. For training the model I use the Rock Paper Scissors Dataset and then, the model is evaluated using unseen images.
 
 ---
-## Resumes
+## Resources
 
 ### NumPy library
 
@@ -51,6 +51,9 @@ First I prepare the data using generators for image augmentation. Then, I use a 
 
 NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
 
+This notebook shows the main functions of the NumPy library. These are related with implementing different mathematical operations, sorting, reshaping or slicing NumPy arrays and much more.
+
+
 ---
 
 ### Pandas library
@@ -58,7 +61,10 @@ NumPy is a library for the Python programming language, adding support for large
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/pandas_summary.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jorgealiaga36/machine_learning/blob/master/pandas_summary.ipynb)
 
-Pandas is a library for the Python programming language used in data analysis and in data manipulation for retrieving information from the data.
+Pandas is a library used in data analysis and in data manipulation for retrieving information from the data.
+
+This notebook shows the main functions of the Pandas library. These are related with creating Data Frames and Series or grouping or sorting them, and dealing with missing values, and much more.
+
 
 ---
 

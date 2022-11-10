@@ -43,7 +43,7 @@ First, we carry out a brief exploratory data analysis. Then, we preprocess the d
 
 The main goal of this proyect is to `build a image classification model for the rock, paper and scissors game`. 
 
-First we prepare the data using generators for image augmentation. Then, we use a pretained model called `Inception-v3` and we add some extra layers to fit the model for our application. For training the model we use the Rock Paper Scissors Dataset and then, the model is evaluated using unseen images.
+First we prepare the data using generators for image augmentation. Then, we use a pretained model called `Inception-v3` and we add some extra layers to fit the model for our application. For training the model we use the `Rock Paper Scissors Dataset` and then, the model is evaluated using unseen images.
 
 ---
 ## Resumes

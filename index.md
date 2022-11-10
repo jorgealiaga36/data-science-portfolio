@@ -5,7 +5,7 @@
 
 ### Churn Prediction
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/churn_prediction_proyect.html)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/prueba.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jorgealiaga36/machine_learning/tree/master/chap3_churn_prediction)
 ---
 
@@ -15,7 +15,7 @@ Imagine that we work at a bank. When we receive a loan application, we need to m
 
 We will study different machine learning models and we will select the best one for our proyect.
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/credit_risk_scoring_proyect.html)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/prueba.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jorgealiaga36/machine_learning/blob/master/credit_risk_scoring_proyect.ipynb)
 
 ---

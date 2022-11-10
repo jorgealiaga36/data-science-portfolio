@@ -20,7 +20,7 @@ First, we carry out a deep exploratory data analysis for analying relationships 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/credit_risk_scoring_proyect.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jorgealiaga36/machine_learning/blob/master/credit_risk_scoring_proyect.ipynb)
 
-Imagine that we work at a bank. When we receive a loan application, we need to make sure that if we give the money, the customer will be able to pay it back. Every application carries a risk of default — the failure to return the money. We’d like to minimize this risk: before agreeing to give a loan, we want to score the customer and assess the chances of default. If it’s too high, we reject the application.
+Imagine that we work at a bank. When we receive a loan application, we need to make sure that if we give the money, the customer will be able to pay it back. Every application carries a risk of default, the failure to return the money. We’d like to minimize this risk: before agreeing to give a loan, we want to score the customer and assess the chances of default. If it’s too high, we reject the application.
 
 First, we carry out a brief exploratory data analysis. Then, we preprocess the data and do some feature engieering. Finally, we train different machine learning models to see wich one fits better for our application:
 

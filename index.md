@@ -63,7 +63,7 @@ This notebook shows the main functions of the NumPy library. These are related w
 
 Pandas is a library used in data analysis and in data manipulation for retrieving information from the data.
 
-This notebook shows the main functions of the Pandas library. These are related with creating Data Frames and Series or grouping or sorting them, and dealing with missing values, and much more.
+This notebook shows the main functions of the Pandas library. These are related with creating Data Frames and Series, grouping or sorting them, dealing with missing values, and much more.
 
 
 ---

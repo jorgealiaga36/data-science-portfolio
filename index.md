@@ -32,7 +32,6 @@ First, I carry out a brief exploratory data analysis. Then, I preprocess the dat
 <br><br>
 
 
-
 ---
 
 ### Rock-Paper-Scissors Image classification

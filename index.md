@@ -17,23 +17,6 @@ First, I carry out a deep exploratory data analysis for analying relationships b
 
 ---
 
-### Credit Risk Scoring 
-
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/credit_risk_scoring_proyect.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jorgealiaga36/machine-learning/blob/main/credit_risk_scoring_proyect.ipynb)
-
-<p align="justify">
-Imagine that we work at a bank. When we receive a loan application, we need to make sure that if we give the money, the customer will be able to pay it back. Every application carries a risk of default, the failure to return the money. We’d like to minimize this risk: before agreeing to give a loan, we want to score the customer and assess the chances of default. If it’s too high, we reject the application.
-<br><br>
-First, I carry out a brief exploratory data analysis. Then, I preprocess the data and do some feature engieering. Finally, I train different machine learning models to see wich one fits better for the application: Logistic regression, Decision Trees, Random Forest, SVM and XGBoost.
-</p>
-
-<center><img src="images/image_p3.png"></center>
-<br><br>
-
-
----
-
 ### Rock-Paper-Scissors Image classification
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/rock_scissors_paper_proyect.html)
@@ -47,6 +30,24 @@ First I prepare the data using generators for image augmentation. Then, I use a 
 
 <center><img src="images/image_p3.png"></center>
 
+
+
+---
+
+
+### Credit Risk Scoring 
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/credit_risk_scoring_proyect.html)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jorgealiaga36/machine-learning/blob/main/credit_risk_scoring_proyect.ipynb)
+
+<p align="justify">
+Imagine that we work at a bank. When we receive a loan application, we need to make sure that if we give the money, the customer will be able to pay it back. Every application carries a risk of default, the failure to return the money. We’d like to minimize this risk: before agreeing to give a loan, we want to score the customer and assess the chances of default. If it’s too high, we reject the application.
+<br><br>
+First, I carry out a brief exploratory data analysis. Then, I preprocess the data and do some feature engieering. Finally, I train different machine learning models to see wich one fits better for the application: Logistic regression, Decision Trees, Random Forest, SVM and XGBoost.
+</p>
+
+<center><img src="images/image_p2.png"></center>
+<br><br>
 
 
 ---

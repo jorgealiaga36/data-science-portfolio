@@ -12,7 +12,6 @@
 Imagine that we are working at a telecom company that offers phone and internet services, and we have a problem: some of our customers are churning. They no longer are using our services and are going to a different provider. We would like to prevent that from happening, so we develop a system for identifying these customers and offer them an incentive to stay.
 <br><br>
 First, I carry out a deep exploratory data analysis for analying relationships between data. Then, I preprocess the data and I do some feature engineering. Finally, I train a Logisctic Regression model selecting the best hyperparameters that fit better for the application and I analize its performance.
-<br><br>
 </p>
 
 <center><img src="images/image_p1.png"></center>

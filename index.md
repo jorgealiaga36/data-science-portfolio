@@ -33,7 +33,6 @@ First I prepare the data using generators for image augmentation. Then, I use a 
 
 <center><img src="images/image_p3.png"></center>
 
-
 ---
 
 

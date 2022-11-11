@@ -26,7 +26,7 @@ First, I carry out a deep exploratory data analysis for analying relationships b
 Imagine that we work at a bank. When we receive a loan application, we need to make sure that if we give the money, the customer will be able to pay it back. Every application carries a risk of default, the failure to return the money. We’d like to minimize this risk: before agreeing to give a loan, we want to score the customer and assess the chances of default. If it’s too high, we reject the application.
  <br><br>
 First, I carry out a brief exploratory data analysis. Then, I preprocess the data and do some feature engieering. Finally, I train different machine learning models to see wich one fits better for the application:
-<br><br>
+
 + Logistic regression.
 + Decision Trees.
 + Random Forest.

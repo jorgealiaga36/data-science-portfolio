@@ -15,7 +15,7 @@ First, I carry out a deep exploratory data analysis for analying relationships b
 <br><br>
 </p>
 
-<center><img src="images/image_p3.png"></center>
+<center><img src="images/image_p1.png"></center>
 
 ---
 

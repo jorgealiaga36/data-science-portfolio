@@ -16,9 +16,7 @@ First, I carry out a deep exploratory data analysis for analying relationships b
 </p>
 
 <center><img src="images/image_p1.png"></center>
-
-
-
+<br><br>
 
 ---
 
@@ -52,7 +50,7 @@ First, I carry out a brief exploratory data analysis. Then, I preprocess the dat
 </p>
 
 <center><img src="images/image_p2.png"></center>
-
+<br><br>
 
 
 

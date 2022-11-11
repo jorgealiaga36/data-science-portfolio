@@ -18,6 +18,8 @@ First, I carry out a deep exploratory data analysis for analying relationships b
 <center><img src="images/image_p1.png"></center>
 
 
+
+
 ---
 
 ### Rock-Paper-Scissors Image classification
@@ -50,6 +52,7 @@ First, I carry out a brief exploratory data analysis. Then, I preprocess the dat
 </p>
 
 <center><img src="images/image_p2.png"></center>
+
 
 
 

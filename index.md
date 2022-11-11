@@ -29,6 +29,7 @@ First, I carry out a brief exploratory data analysis. Then, I preprocess the dat
 </p>
 
 <center><img src="images/image_p2.png"></center>
+
 ---
 
 ### Rock-Paper-Scissors Image classification

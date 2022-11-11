@@ -47,7 +47,7 @@ Imagine that we work at a bank. When we receive a loan application, we need to m
 First, I carry out a brief exploratory data analysis. Then, I preprocess the data and do some feature engieering. Finally, I train different machine learning models to see wich one fits better for the application: Logistic regression, Decision Trees, Random Forest, SVM and XGBoost.
 </p>
 
-<center><img src="images/image_p3.png"></center>
+<center><img src="images/image_p.png"></center>
 
 
 

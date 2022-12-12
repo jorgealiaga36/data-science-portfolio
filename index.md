@@ -5,7 +5,7 @@
 
 ### Churn Prediction
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/rock_scissors_paper_proyect.html)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/churn_prediction_proyect.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jorgealiaga36/machine-learning/blob/main/churn_prediction_proyect.ipynb)
 
 <p align="justify">
